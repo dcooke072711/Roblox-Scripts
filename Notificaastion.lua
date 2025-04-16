@@ -5,9 +5,7 @@
 local StarterGui = game:GetService("StarterGui")
 
 local Notifications = {
-    "Thx for the 850 followers!!!",
-    "pls like",
-    "pls follow",
+    "PolarWareAPI Injected",
 }
 
 local TimeBetweenNotifications = 6
